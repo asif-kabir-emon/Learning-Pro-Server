@@ -1,0 +1,30 @@
+[
+  {
+    "id": "01",
+    "name": "HTML"
+  },
+  {
+    "id": "02",
+    "name": "CSS"
+  },
+  {
+    "id": "03",
+    "name": "JavaScript"
+  },
+  {
+    "id": "04",
+    "name": "React"
+  },
+  {
+    "id": "05",
+    "name": "React Native"
+  },
+  {
+    "id": "06",
+    "name": "Python"
+  },
+  {
+    "id": "08",
+    "name": "All Courses"
+  }
+]
