@@ -1,32 +1,115 @@
 [
   {
-    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "_id": "0282e0e58a5c404fbd15261f11c2ab1a",
     "category_id": "02",
-    "rating": { "number": 4.3, "badge": "Excellent" },
+    "rating": { "number": 4.3, "badge": "Good" },
     "price": 5,
     "total_enrolled": 488,
-    "title": "Basic of HTML",
-    "instructor": {
-      "name": "Jimmy Dane",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/Introduction-to-HTML-2.jpg",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
-  },
-  {
-    "_id": "0282e0e58a5c404fbd15261f11c2ab7a",
-    "category_id": "02",
-    "rating": { "number": 4.8, "badge": "Excellent" },
-    "price": 10,
-    "total_enrolled": 4088,
+    "duration": "3.5 hour",
     "title": "Introduction to HTML",
     "instructor": {
       "name": "Jimmy Dane",
       "published_date": "2022-08-24 17:27:34",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/Introduction-to-HTML-2.jpg",
+    "details": "Learn HTML5 with this comprehensive course from TeachUcomp, Inc. Mastering HTML5 Made Easy features 125 video lessons with 3.5 hours of introductory through advanced instruction. Watch, listen and learn as your expert instructor guides you through each lesson step-by-step. During this media-rich learning experience, you will see each function performed just as if your instructor were there with you. Reinforce your learning with the text of our printable classroom instruction manual, additional images and practice exercises. You will learn how to create a website from scratch, while exploring all of the techniques to add the various elements of a website – text, links, images, CSS and much more."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab2a",
+    "category_id": "02",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "price": 10,
+    "total_enrolled": 4088,
+    "duration": "8.5 hour",
+    "title": "Advanced HTML",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
     "image_url": "https://resources.stdio.vn/content/article/html-phan-0-trang-web-dau-tien/thumbnail-hd/blob-1598602145526@1280x720.jpg",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "details": "After completion of the course of HTML at EduCBA, we would like to accomplish that the learner can choose this as the standard to work in the field of a web developer. Post completion of HTML one can work more closely with global web development standards."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab3a",
+    "category_id": "03",
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "price": 12,
+    "total_enrolled": 2088,
+    "duration": "10 hour",
+    "title": "Introduction to CSS",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/What-is-CSS.jpg",
+    "details": "The central idea behind CSS training program is to create awareness about CSS and transfer knowledge to the individuals who are willing to develop their career in the CSS development and programming. The training would help in bridging the gap between the industry demand and the skill sets that the pool of people is prevailing. The industry would be able to get the right pool of people who can work in different environments and conditions whenever it is demanded."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab4a",
+    "category_id": "04",
+    "rating": { "number": 4.9, "badge": "Excellent" },
+    "price": 20,
+    "total_enrolled": 5088,
+    "duration": "20 hour",
+    "title": "Introduction to JavaScript",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/11/JavaScript-Events.png",
+    "details": "This JavaScript training is designed for individual learners to provide them the best learning experience on JavaScript and help them to meet the current professional requirement needed to become a JavaScript Developer. This training is exclusively focused on providing Basics to Advanced concepts on JavaScript."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab5a",
+    "category_id": "05",
+    "rating": { "number": 5.0, "badge": "Excellent" },
+    "price": 50,
+    "total_enrolled": 10088,
+    "duration": "29 hour",
+    "title": "Advanced React",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2020/03/React-Components.jpg",
+    "details": "The goal of the course is to provide a deeper knowledge and hands-on learning experience on React JS Redux tool that deals with the creation of single-page user desired applications with compatibility and along with real-time React JS projects to provide an overall knowledge on the effective application development."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "06",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "price": 80,
+    "total_enrolled": 8008,
+    "duration": "20 hour",
+    "title": "Full Course on React Native",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2020/01/What-is-React-Native-1.jpg",
+    "details": "Already have some web development experience but interested in making mobile apps? This course is for you. With Expo and React Native, you can build a mobile app using React. It uses the same declarative UI paradigm but renders the same native view components created when writing native code. You can write your app once and run it on multiple platforms, like Android, iOS and even web. By reusing prior web development knowledge you can create mobile apps with native UI and device capabilities. It also speeds up development by reusing most of the same code. But, to get from idea to app on all platforms, basic knowledge of native platforms is required. Expo also provides a range of tools that solves most of the common issues. Although Expo isn’t required to use React Native, it helps developers by removing the need for basic native knowledge. With Expo you can create your apps using pure JavaScript."
+  },
+
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab7a",
+    "category_id": "07",
+    "rating": { "number": 4.9, "badge": "Excellent" },
+    "price": 45,
+    "total_enrolled": 20500,
+    "duration": "15 hour",
+    "title": "Introduction to Python",
+    "instructor": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-Python.png",
+    "details": "Python is a versatile computer programming language that is highly suitable for tasks ranging from scripts to large systems. The programming course highlights best practices, including unit testing, version control, and optional idioms. Any student can pursue the Python programming language course. Whether a graduate, a postgraduate, or a 12th pass out students from any field can join the institutes offering Python courses. The course in Python is highly focused on providing the fundamental aspects of language to the students."
   }
 ]
